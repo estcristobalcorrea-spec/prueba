@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\cristobal\\Desktop\\PRUEBA\\backend\\Prueba T\u00E9cnica Full-Stack\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F79CFD35-7B1B-4942-970B-17B7877DB552}|Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack.csproj|c:\\users\\cristobal\\desktop\\prueba\\backend\\prueba t\u00E9cnica full-stack\\prueba t\u00E9cnica full-stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CFD35-7B1B-4942-970B-17B7877DB552}|Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack.csproj|solutionrelative:prueba t\u00E9cnica full-stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F79CFD35-7B1B-4942-970B-17B7877DB552}|Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack.csproj|c:\\users\\cristobal\\desktop\\prueba\\backend\\prueba t\u00E9cnica full-stack\\prueba t\u00E9cnica full-stack\\validators\\personavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F79CFD35-7B1B-4942-970B-17B7877DB552}|Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack.csproj|solutionrelative:prueba t\u00E9cnica full-stack\\validators\\personavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F79CFD35-7B1B-4942-970B-17B7877DB552}|Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack.csproj|c:\\users\\cristobal\\desktop\\prueba\\backend\\prueba t\u00E9cnica full-stack\\prueba t\u00E9cnica full-stack\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F79CFD35-7B1B-4942-970B-17B7877DB552}|Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack.csproj|solutionrelative:prueba t\u00E9cnica full-stack\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F79CFD35-7B1B-4942-970B-17B7877DB552}|Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack.csproj|c:\\users\\cristobal\\desktop\\prueba\\backend\\prueba t\u00E9cnica full-stack\\prueba t\u00E9cnica full-stack\\data\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F79CFD35-7B1B-4942-970B-17B7877DB552}|Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack.csproj|solutionrelative:prueba t\u00E9cnica full-stack\\data\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F79CFD35-7B1B-4942-970B-17B7877DB552}|Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack.csproj|c:\\users\\cristobal\\desktop\\prueba\\backend\\prueba t\u00E9cnica full-stack\\prueba t\u00E9cnica full-stack\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F79CFD35-7B1B-4942-970B-17B7877DB552}|Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack.csproj|solutionrelative:prueba t\u00E9cnica full-stack\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F79CFD35-7B1B-4942-970B-17B7877DB552}|Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack.csproj|c:\\users\\cristobal\\desktop\\prueba\\backend\\prueba t\u00E9cnica full-stack\\prueba t\u00E9cnica full-stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F79CFD35-7B1B-4942-970B-17B7877DB552}|Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack.csproj|solutionrelative:prueba t\u00E9cnica full-stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F79CFD35-7B1B-4942-970B-17B7877DB552}|Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack.csproj|c:\\users\\cristobal\\desktop\\prueba\\backend\\prueba t\u00E9cnica full-stack\\prueba t\u00E9cnica full-stack\\data\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CFD35-7B1B-4942-970B-17B7877DB552}|Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack.csproj|solutionrelative:prueba t\u00E9cnica full-stack\\data\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CFD35-7B1B-4942-970B-17B7877DB552}|Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack.csproj|c:\\users\\cristobal\\desktop\\prueba\\backend\\prueba t\u00E9cnica full-stack\\prueba t\u00E9cnica full-stack\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CFD35-7B1B-4942-970B-17B7877DB552}|Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack.csproj|solutionrelative:prueba t\u00E9cnica full-stack\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F79CFD35-7B1B-4942-970B-17B7877DB552}|Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack.csproj|c:\\users\\cristobal\\desktop\\prueba\\backend\\prueba t\u00E9cnica full-stack\\prueba t\u00E9cnica full-stack\\prueba t\u00E9cnica full-stack.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,19 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cristobal\\Desktop\\PRUEBA\\backend\\Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack\\Program.cs",
               "RelativeDocumentMoniker": "Prueba T\u00E9cnica Full-Stack\\Program.cs",
               "ToolTip": "C:\\Users\\cristobal\\Desktop\\PRUEBA\\backend\\Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack\\Program.cs",
               "RelativeToolTip": "Prueba T\u00E9cnica Full-Stack\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T14:54:22.323Z"
+              "WhenOpened": "2025-12-30T14:54:22.323Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PersonaValidator.cs",
               "DocumentMoniker": "C:\\Users\\cristobal\\Desktop\\PRUEBA\\backend\\Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack\\Validators\\PersonaValidator.cs",
               "RelativeDocumentMoniker": "Prueba T\u00E9cnica Full-Stack\\Validators\\PersonaValidator.cs",
@@ -67,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "persona.cs",
               "DocumentMoniker": "C:\\Users\\cristobal\\Desktop\\PRUEBA\\backend\\Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack\\Models\\persona.cs",
               "RelativeDocumentMoniker": "Prueba T\u00E9cnica Full-Stack\\Models\\persona.cs",
@@ -75,19 +76,21 @@
               "RelativeToolTip": "Prueba T\u00E9cnica Full-Stack\\Models\\persona.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T14:46:59.299Z"
+              "WhenOpened": "2025-12-30T14:46:59.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PersonaRepository.cs",
               "DocumentMoniker": "C:\\Users\\cristobal\\Desktop\\PRUEBA\\backend\\Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack\\Data\\PersonaRepository.cs",
               "RelativeDocumentMoniker": "Prueba T\u00E9cnica Full-Stack\\Data\\PersonaRepository.cs",
               "ToolTip": "C:\\Users\\cristobal\\Desktop\\PRUEBA\\backend\\Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack\\Data\\PersonaRepository.cs",
               "RelativeToolTip": "Prueba T\u00E9cnica Full-Stack\\Data\\PersonaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wDAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T14:45:59.494Z"
+              "WhenOpened": "2025-12-30T14:45:59.494Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -103,15 +106,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PersonasController.cs",
               "DocumentMoniker": "C:\\Users\\cristobal\\Desktop\\PRUEBA\\backend\\Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack\\Controllers\\PersonasController.cs",
               "RelativeDocumentMoniker": "Prueba T\u00E9cnica Full-Stack\\Controllers\\PersonasController.cs",
               "ToolTip": "C:\\Users\\cristobal\\Desktop\\PRUEBA\\backend\\Prueba T\u00E9cnica Full-Stack\\Prueba T\u00E9cnica Full-Stack\\Controllers\\PersonasController.cs",
               "RelativeToolTip": "Prueba T\u00E9cnica Full-Stack\\Controllers\\PersonasController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T14:42:59.403Z"
+              "WhenOpened": "2025-12-30T14:42:59.403Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
