@@ -1,0 +1,76 @@
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\appsettings.json
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\Prueba Técnica Full-Stack.staticwebassets.endpoints.json
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\Prueba Técnica Full-Stack.exe
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\Prueba Técnica Full-Stack.deps.json
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\Prueba Técnica Full-Stack.runtimeconfig.json
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\Prueba Técnica Full-Stack.dll
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\Prueba Técnica Full-Stack.pdb
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\Prueba Técnica Full-Stack.csproj.AssemblyReference.cache
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\Prueba Técnica Full-Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\Prueba Técnica Full-Stack.AssemblyInfoInputs.cache
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\Prueba Técnica Full-Stack.AssemblyInfo.cs
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\Prueba Técnica Full-Stack.csproj.CoreCompileInputs.cache
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\Prueba Técnica Full-Stack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\Prueba Técnica Full-Stack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\scopedcss\bundle\Prueba Técnica Full-Stack.styles.css
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\Prueba T.3B91B96C.Up2Date
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\Prueba Técnica Full-Stack.dll
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\refint\Prueba Técnica Full-Stack.dll
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\Prueba Técnica Full-Stack.pdb
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\Prueba Técnica Full-Stack.genruntimeconfig.cache
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\ref\Prueba Técnica Full-Stack.dll
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\cristobal\source\repos\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\appsettings.json
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\Prueba Técnica Full-Stack.staticwebassets.endpoints.json
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\Prueba Técnica Full-Stack.exe
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\Prueba Técnica Full-Stack.deps.json
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\Prueba Técnica Full-Stack.runtimeconfig.json
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\Prueba Técnica Full-Stack.dll
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\Prueba Técnica Full-Stack.pdb
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\Prueba Técnica Full-Stack.csproj.AssemblyReference.cache
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\Prueba Técnica Full-Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\Prueba Técnica Full-Stack.AssemblyInfoInputs.cache
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\Prueba Técnica Full-Stack.AssemblyInfo.cs
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\Prueba Técnica Full-Stack.csproj.CoreCompileInputs.cache
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\Prueba Técnica Full-Stack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\Prueba Técnica Full-Stack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\scopedcss\bundle\Prueba Técnica Full-Stack.styles.css
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\Prueba T.3B91B96C.Up2Date
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\Prueba Técnica Full-Stack.dll
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\refint\Prueba Técnica Full-Stack.dll
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\Prueba Técnica Full-Stack.pdb
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\Prueba Técnica Full-Stack.genruntimeconfig.cache
+C:\Users\cristobal\Desktop\PRUEBA\backend\Prueba Técnica Full-Stack\Prueba Técnica Full-Stack\obj\Debug\net8.0\ref\Prueba Técnica Full-Stack.dll
